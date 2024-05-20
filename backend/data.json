@@ -1,0 +1,248 @@
+[
+  {
+    "id": "2214",
+    "recipeName": "Chicken Alfredo Pasta",
+    "category": "Main Course",
+    "ingredients": [
+      "400 grams fettuccine pasta",
+      "2 boneless, skinless chicken breasts, sliced thinly",
+      "3 cloves garlic, minced",
+      "1 cup heavy cream",
+      "1 cup grated Parmesan cheese",
+      "2 tablespoons unsalted butter",
+      "Salt and black pepper to taste",
+      "Chopped parsley for garnish"
+    ],
+    "instructions": [
+      "Cook fettuccine pasta according to package instructions until al dente.",
+      "In a large skillet, melt butter over medium heat. Add sliced chicken breasts and cook until browned and cooked through. Remove chicken from skillet and set aside.",
+      "In the same skillet, add minced garlic and cook until fragrant. Pour in heavy cream and bring to a simmer.",
+      "Add grated Parmesan cheese to the cream mixture and stir until melted and smooth. Season with salt and black pepper to taste.",
+      "Return cooked chicken to the skillet and toss to coat in the Alfredo sauce.",
+      "Add cooked fettuccine pasta to the skillet and toss until well coated in the sauce.",
+      "Serve hot, garnished with chopped parsley.",
+      "Enjoy your creamy Chicken Alfredo Pasta!"
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Chicken Alfredo Pasta pairs well with garlic breadsticks and a side of steamed broccoli.",
+    "image": "./images/chicken-alfredo.jpg"
+  },
+  {
+    "id": "2215",
+    "recipeName": "Classic Margherita Pizza",
+    "category": "Main Course",
+    "ingredients": [
+      "1 pizza dough (store-bought or homemade)",
+      "1/2 cup pizza sauce",
+      "1 1/2 cups shredded mozzarella cheese",
+      "2 large tomatoes, sliced",
+      "Fresh basil leaves",
+      "Salt and black pepper to taste",
+      "Extra virgin olive oil for drizzling"
+    ],
+    "instructions": [
+      "Preheat your oven to 475°F (245°C).",
+      "Roll out the pizza dough on a lightly floured surface to your desired thickness.",
+      "Transfer the rolled-out dough to a pizza stone or a baking sheet lined with parchment paper.",
+      "Spread pizza sauce evenly over the dough, leaving a small border around the edges.",
+      "Evenly distribute shredded mozzarella cheese over the sauce.",
+      "Arrange sliced tomatoes on top of the cheese. Season with salt and black pepper.",
+      "Bake in the preheated oven for 10-12 minutes, or until the crust is golden brown and the cheese is bubbly and melted.",
+      "Remove from the oven and garnish with fresh basil leaves. Drizzle with extra virgin olive oil before serving.",
+      "Slice and enjoy your Classic Margherita Pizza!"
+    ],
+    "recipeTime": 25,
+    "servingSuggestion": "Serve Margherita Pizza with a side of mixed greens dressed in balsamic vinaigrette.",
+    "image": "./images/Classic-Margherita-Pizza.jpg"
+  },
+  {
+    "id": "2216",
+    "recipeName": "Beef Tacos",
+    "category": "Main Course",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 tablespoon olive oil",
+      "1 small onion, diced",
+      "2 cloves garlic, minced",
+      "1 packet taco seasoning",
+      "1/4 cup water",
+      "8 taco shells",
+      "Toppings: shredded lettuce, diced tomatoes, shredded cheese, sour cream, salsa, sliced jalapeños, etc."
+    ],
+    "instructions": [
+      "In a large skillet, heat olive oil over medium heat. Add diced onions and minced garlic, sauté until softened.",
+      "Add ground beef to the skillet and cook until browned, breaking it up with a spoon.",
+      "Stir in taco seasoning and water. Simmer for 5-7 minutes, or until the liquid is absorbed and the mixture is thickened.",
+      "Meanwhile, warm taco shells according to package instructions.",
+      "Fill taco shells with the beef mixture and top with desired toppings.",
+      "Serve immediately and enjoy your Beef Tacos!"
+    ],
+    "recipeTime": 20,
+    "servingSuggestion": "Serve Beef Tacos with a side of Mexican rice and refried beans.",
+    "image": "./images/Beef-Tacos.jpg"
+  },
+  {
+    "id": "2217",
+    "recipeName": "Vegetable Stir Fry",
+    "category": "Main Course",
+    "ingredients": [
+      "2 cups mixed vegetables (such as bell peppers, broccoli, carrots, snap peas)",
+      "1 tablespoon vegetable oil",
+      "2 cloves garlic, minced",
+      "1 tablespoon soy sauce",
+      "1 tablespoon oyster sauce",
+      "1 teaspoon sesame oil",
+      "1/2 teaspoon grated ginger",
+      "Cooked rice for serving"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+      "Add minced garlic and grated ginger to the skillet, and cook until fragrant.",
+      "Add mixed vegetables to the skillet and stir-fry until crisp-tender.",
+      "In a small bowl, whisk together soy sauce, oyster sauce, and sesame oil.",
+      "Pour the sauce over the vegetables in the skillet and toss to combine.",
+      "Continue cooking for another 2-3 minutes, or until the vegetables are coated in the sauce and heated through.",
+      "Serve hot over cooked rice.",
+      "Enjoy your flavorful Vegetable Stir Fry!"
+    ],
+    "recipeTime": 15,
+    "servingSuggestion": "Garnish Vegetable Stir Fry with chopped green onions and sesame seeds before serving.",
+    "image": "./images/Vegetable-Stir-Fry.jpg"
+  },
+  {
+    "id": "2220",
+    "recipeName": "Guacamole",
+    "category": "Appetizer",
+    "ingredients": [
+      "2 ripe avocados",
+      "1/4 cup red onion, finely chopped",
+      "1/4 cup cilantro, chopped",
+      "1 jalapeño pepper, seeded and finely chopped",
+      "Juice of 1 lime",
+      "Salt and black pepper to taste",
+      "Tortilla chips for serving"
+    ],
+    "instructions": [
+      "Cut avocados in half and remove the pits. Scoop the avocado flesh into a medium bowl.",
+      "Add chopped red onion, chopped cilantro, and chopped jalapeño pepper to the bowl with the avocado.",
+      "Drizzle lime juice over the mixture and season with salt and black pepper to taste.",
+      "Mash everything together with a fork until desired consistency is reached.",
+      "Taste and adjust seasoning if needed.",
+      "Cover and refrigerate for at least 30 minutes before serving to allow the flavors to meld together.",
+      "Serve with tortilla chips and enjoy your homemade Guacamole!"
+    ],
+    "recipeTime": 15,
+    "servingSuggestion": "Guacamole is perfect for dipping tortilla chips, topping tacos, or serving alongside fajitas.",
+    "image": "./images/Guacamole.jpg"
+  },
+  {
+    "id": "2221",
+    "recipeName": "Chicken Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1 head romaine lettuce, chopped",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "Caesar dressing (store-bought or homemade)",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Season chicken breasts with salt and black pepper.",
+      "Grill or pan-sear chicken breasts until cooked through, about 6-8 minutes per side. Let cool slightly, then slice thinly.",
+      "In a large bowl, toss chopped romaine lettuce with Caesar dressing until evenly coated.",
+      "Divide dressed lettuce among serving plates. Top with sliced chicken breasts, croutons, and grated Parmesan cheese.",
+      "Serve immediately and enjoy your classic Chicken Caesar Salad!"
+    ],
+    "recipeTime": 20,
+    "servingSuggestion": "Serve Chicken Caesar Salad with a side of garlic bread or a cup of soup for a complete meal.",
+    "image": "./images/chicken-caesar-salad.jpg"
+  },
+  {
+    "id": "2222",
+    "recipeName": "Greek Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 large tomatoes, chopped",
+      "1 cucumber, diced",
+      "1/2 red onion, thinly sliced",
+      "1/2 cup Kalamata olives, pitted",
+      "1/2 cup crumbled feta cheese",
+      "1/4 cup extra virgin olive oil",
+      "2 tablespoons red wine vinegar",
+      "1 teaspoon dried oregano",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "In a large salad bowl, combine chopped tomatoes, diced cucumber, thinly sliced red onion, pitted Kalamata olives, and crumbled feta cheese.",
+      "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and black pepper.",
+      "Pour the dressing over the salad ingredients and toss gently to combine.",
+      "Taste and adjust seasoning if needed.",
+      "Serve immediately and enjoy your refreshing Greek Salad!"
+    ],
+    "recipeTime": 15,
+    "servingSuggestion": "Greek Salad is perfect for serving as a side dish with grilled meats or as a light lunch option.",
+    "image": "./images/Greek-Salad.jpeg"
+  },
+  {
+    "id": "2223",
+    "recipeName": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup unsalted butter, softened",
+      "1 cup granulated sugar",
+      "1 cup packed brown sugar",
+      "2 large eggs",
+      "1 teaspoon vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line baking sheets with parchment paper.",
+      "In a large bowl, cream together softened butter, granulated sugar, and brown sugar until smooth.",
+      "Beat in eggs one at a time, then stir in vanilla extract.",
+      "Combine flour, baking soda, and salt; gradually add to the creamed mixture and mix well.",
+      "Fold in chocolate chips.",
+      "Drop dough by rounded tablespoonfuls onto prepared baking sheets.",
+      "Bake for 10-12 minutes in the preheated oven, or until edges are golden brown.",
+      "Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.",
+      "Enjoy your homemade Chocolate Chip Cookies with a glass of milk!"
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Chocolate Chip Cookies are perfect for enjoying as a snack or dessert with family and friends.",
+    "image": "./images/Chocolate-Chip-Cookies.jpg"
+  },
+  {
+    "id": "2224",
+    "recipeName": "New York Cheesecake",
+    "category": "Dessert",
+    "ingredients": [
+      "1 1/2 cups graham cracker crumbs",
+      "1/4 cup granulated sugar",
+      "1/2 cup unsalted butter, melted",
+      "4 (8-ounce) packages cream cheese, softened",
+      "1 1/4 cups granulated sugar",
+      "4 large eggs",
+      "2 teaspoons vanilla extract",
+      "1 cup sour cream",
+      "1/4 cup all-purpose flour"
+    ],
+    "instructions": [
+      "Preheat oven to 325°F (165°C). Grease a 9-inch springform pan.",
+      "In a medium bowl, combine graham cracker crumbs, sugar, and melted butter. Press mixture into the bottom of the prepared springform pan.",
+      "In a large bowl, beat cream cheese and sugar until smooth.",
+      "Add eggs one at a time, beating well after each addition. Stir in vanilla extract.",
+      "Fold in sour cream and flour until well combined.",
+      "Pour batter over the prepared crust in the springform pan.",
+      "Bake in the preheated oven for 60-70 minutes, or until the center is almost set.",
+      "Remove cheesecake from oven and run a knife around the edges to loosen. Allow cheesecake to cool completely in the pan on a wire rack.",
+      "Refrigerate for at least 4 hours or overnight before serving.",
+      "Slice and enjoy your creamy New York Cheesecake!"
+    ],
+    "recipeTime": 90,
+    "servingSuggestion": "New York Cheesecake pairs well with fresh berries or a drizzle of raspberry sauce.",
+    "image": "./images/new-york-cheesecake.jpg"
+  }
+]
